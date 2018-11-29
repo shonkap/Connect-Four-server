@@ -1,0 +1,30 @@
+{
+  "name": "final-project-final-project-group-12",
+  "version": "1.0.0",
+  "description": "a connect four webserver for CS290 Final Project group 12",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSU-CS290-F17/final-project-final-project-group-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSU-CS290-F17/final-project-final-project-group-12/issues"
+  },
+  "homepage": "https://github.com/OSU-CS290-F17/final-project-final-project-group-12#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "circuit": "^1.1.3",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "mon": "0.0.8",
+    "mongodb": "^2.2.33",
+    "socket.io": "^2.0.4"
+  }
+}
