@@ -166,7 +166,7 @@ function switchTurn(){
 function putToken(event) {
 	// console.log(event.target.id);
 	console.log("lol");
-	socket.emit('putToken', {column : parseInt(event.target.id), player : playerData.name, room: playerData.room});
+	socket.emit('putToken', {column : parseInt(this.id, player : playerData.name, room: playerData.room});
 }
 
 function disableColumn(num) {
