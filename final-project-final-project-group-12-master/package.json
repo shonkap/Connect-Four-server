@@ -25,6 +25,6 @@
     "handlebars": "^4.0.11",
     "mon": "0.0.8",
     "mongodb": "^2.2.33",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.4.0"
   }
 }
