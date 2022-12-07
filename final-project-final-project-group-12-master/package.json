@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/OSU-CS290-F17/final-project-final-project-group-12#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "circuit": "^1.1.3",
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.0",
     "handlebars": "^4.0.11",
     "mon": "0.0.8",
